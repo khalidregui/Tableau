@@ -26,8 +26,8 @@ This line chart shows weekly revenue trends, offering insight into seasonal fluc
 
 ![Revenue Trends Over Time](revenue_trends.png)
 
-### 5. Bedroom Distribution
-This chart shows how many listings are available for one, two, three, and up to six bedrooms.
+### 5. Bedroom table
+This table shows how many listings are available for one, two, three, and up to six bedrooms.
 
-![Bedroom Distribution](bedroom_distribution.png)
+![Bedroom table](bedroom_table.png)
 
