@@ -2,6 +2,8 @@
 
 This project is a Tableau dashboard that visualizes Airbnb data, sourced from [Inside Airbnb](https://insideairbnb.com/get-the-data/). The dashboard helps analyze various aspects of Airbnb listings, such as pricing, bedroom distribution, revenue trends, and location-based pricing.
 
+[Click Here to see the interactive dashboard](https://khalidregui.github.io/Tableau/Airbnb%20Data%20Analysis%20Dashboard/main.html)
+
 ![Dashboard Overview](dashboard.png)
 
 ## Visualizations
